@@ -3,7 +3,7 @@
 - 👀 I’m interested in **software development**, **guitar playing**, and **amateur radio**.
 - 🌱 I’m currently learning **JavaScript**, **React**, and **backend development**.
 - 💞️ I’m looking to collaborate on **open-source projects** related to **full-stack development** and **npm packages**.
-- 📫 How to reach me: You can reach me via [nuhkan@outlook.com](mailto:nuhkan@outlook.com) or on Instagram [@nuhhkn](https://instagram.com/nuhhkn).
+- 📫 How to reach me: You can reach me via [nuhkan@outlook.com](mailto:nuhkan@outlook.com) or on Instagram [@ta7nuh](https://instagram.com/ta7nuh).
 
 <!---
 nuhh0/nuhh0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
